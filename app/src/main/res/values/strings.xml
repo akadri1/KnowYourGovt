@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="_2018_akshatha_kadri">© 2018, Akshatha Kadri</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="location">No Data for Location</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="address">Address:</string>
+</resources>
